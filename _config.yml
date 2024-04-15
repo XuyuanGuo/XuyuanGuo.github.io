@@ -15,25 +15,28 @@ website: github.com/XuyuanGuo
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
+github_username:  XuyuanGuo
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+# instagram_username: jameswgrant
+# linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+- title: zhihu
+  icon: fas fa-zhihu
+  url: https://www.zhihu.com/people/dylandi-lan-lan
+- title: bilibili
+  icon: fas fa-bilibili
+  url: https://space.bilibili.com/171459933
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,7 +51,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/Profile.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's XuyuanGuo and I'm an undergraduate student major in Computer Science and Technology, Beijing University of Posts and Telecommunications. My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+  Hi, my name's XuyuanGuo and I'm an undergraduate student major in Computer Science and Technology, Beijing University of Posts and Telecommunications. 
+  
+  My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
 content:
   - title: Projects # Title for the section
@@ -93,9 +98,7 @@ content:
       - Playing a wide range of video games
 
       Below are some of my personal photography  
-      ![Street](/images/Street.jpeg)
-      ![Church-of-the-Sacred-Heart](/images/Church-of-the-Sacred-Heart.jpeg)
-      ![Seine](/images/Seine.jpeg)
+      ![Street](/images/Street.jpeg)![Church-of-the-Sacred-Heart](/images/Church-of-the-Sacred-Heart.jpeg)![Seine](/images/Seine.jpeg)
       
 
 # Footer
