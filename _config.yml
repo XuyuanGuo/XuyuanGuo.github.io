@@ -32,10 +32,10 @@ github_username:  XuyuanGuo
 # Additional icon links
 additional_links:
 - title: zhihu
-  icon: fab zhihu
+  icon: fab fa-zhihu
   url: https://www.zhihu.com/people/dylandi-lan-lan
 - title: bilibili
-  icon: fab bilibili
+  icon: fab fa-bilibili
   url: https://space.bilibili.com/171459933
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -71,6 +71,19 @@ content:
           Fianl project for Principles of Artificial Intelligence, 2023 Fall, BUPT
         description: | # this will include new lines to allow paragraphs
           In this project, I selected documents from 10 categories (Home, Games, Finance, Sports, Technology, Entertainment, Stocks, Politics, Society, Education) from the THUCNews dataset, dividing them into training and test sets in a 1:1 ratio. The training set includes 395,747 documents,and the test set also contains 395,747 documents. I then used SVM to classify the documents by their thematic categories.
+          
+      - layout: top-middle
+        title: Business Hall Time Management and Allocation System
+        link: https://github.com/XuyuanGuo/office-management
+        link_text: Project Website
+        additional_links:
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          A Practice of Full-Stack Development
+        description: | # this will include new lines to allow paragraphs
+          This project aims to use the BS architecture pattern to provide a business hours management system for business halls in different regions, requiring the ability to set the working hours for each business hall on weekdays and holidays. Later, this system will be used to manage the time for conducting intelligent video analysis in the business halls.
 
   - title: Honors and Awards # Title for the section
     layout: text # Type of content section (list/text)
