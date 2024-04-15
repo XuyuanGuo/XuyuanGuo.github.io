@@ -32,10 +32,10 @@ github_username:  XuyuanGuo
 # Additional icon links
 additional_links:
 - title: zhihu
-  icon: fas fa-zhihu
+  icon: fa-brands fa-zhihu
   url: https://www.zhihu.com/people/dylandi-lan-lan
 - title: bilibili
-  icon: fas fa-bilibili
+  icon: fa-brands fa-bilibili
   url: https://space.bilibili.com/171459933
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -60,20 +60,28 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Text Subject Classification Using SVM
+        link: github.com/XuyuanGuo
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title: sproogen/modern-resume-theme
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/XuyuanGuo/bupt_AI-Principle
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Fianl project for *Principles of Artificial Intelligence*, 2023 Fall, BUPT
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          In this project, I selected documents from 10 categories (Home, Games, Finance, Sports, Technology, Entertainment, Stocks, Politics, Society, Education) from the THUCNews dataset, dividing them into training and test sets in a 1:1 ratio. The training set includes 395,747 documents,and the test set also contains 395,747 documents. I then used SVM to classify the documents by their thematic categories.
+
+  - title: Honors and Awards # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      - 2022.12 **First-class scholarship(Top 3%)**, Beijing University of Posts and Telecommunications
+      - 2022.12 **Merit Student**, Beijing University of Posts and Telecommunications
+      - 2023.12 **Muse Technologies scholarship**, Beijing University of Posts and Telecommunications
+      - 2023.12 **Merit Student**, Beijing University of Posts and Telecommunications
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -82,8 +90,6 @@ content:
         title: Beijing University of Posts and Telecommunications
         caption: 2021 - 2025
         sub_title: B.Eng. Computer Science and Technology
-        quote: >
-          Beijing University of Posts and Telecommunications is a public university in Beijing, China. It is part of Project 211 and the Double First-Class Construction.
         description: | # this will include new lines to allow paragraphs
           During my time at BUPT I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
@@ -95,9 +101,8 @@ content:
       Alongside my interests in computer science some of my other interests and hobbies are:
       - Photography
       - Exploring culinary delights
-      - Playing a wide range of video games
 
-      Below are some of my personal photography  
+      Below are some of my personal photography works:  
       ![Street](/images/Street.jpeg)![Church-of-the-Sacred-Heart](/images/Church-of-the-Sacred-Heart.jpeg)![Seine](/images/Seine.jpeg)
       
 
