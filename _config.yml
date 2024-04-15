@@ -30,7 +30,7 @@ github_username:  XuyuanGuo
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-# additional_links:
+additional_links:
 - title: zhihu
   icon: fas fa-zhihu
   url: https://www.zhihu.com/people/dylandi-lan-lan
