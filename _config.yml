@@ -32,10 +32,10 @@ github_username:  XuyuanGuo
 # Additional icon links
 additional_links:
 - title: zhihu
-  icon: fa-brands fa-zhihu
+  icon: fab zhihu
   url: https://www.zhihu.com/people/dylandi-lan-lan
 - title: bilibili
-  icon: fa-brands fa-bilibili
+  icon: fab bilibili
   url: https://space.bilibili.com/171459933
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -61,26 +61,23 @@ content:
     content:
       - layout: top-middle
         title: Text Subject Classification Using SVM
-        link: github.com/XuyuanGuo
-        # link_text: Project Website
+        link: github.com/XuyuanGuo/bupt_AI-Principle
+        link_text: Project Website
         additional_links:
-          - title: sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/XuyuanGuo/bupt_AI-Principle
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Fianl project for *Principles of Artificial Intelligence*, 2023 Fall, BUPT
+          Fianl project for Principles of Artificial Intelligence, 2023 Fall, BUPT
         description: | # this will include new lines to allow paragraphs
           In this project, I selected documents from 10 categories (Home, Games, Finance, Sports, Technology, Entertainment, Stocks, Politics, Society, Education) from the THUCNews dataset, dividing them into training and test sets in a 1:1 ratio. The training set includes 395,747 documents,and the test set also contains 395,747 documents. I then used SVM to classify the documents by their thematic categories.
 
   - title: Honors and Awards # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - 2022.12 **First-class scholarship(Top 3%)**, Beijing University of Posts and Telecommunications
+      - 2022.12 **First-class Scholarship(Top 3%)**, Beijing University of Posts and Telecommunications
       - 2022.12 **Merit Student**, Beijing University of Posts and Telecommunications
-      - 2023.12 **Muse Technologies scholarship**, Beijing University of Posts and Telecommunications
+      - 2023.12 **Muse Technologies Scholarship**, Beijing University of Posts and Telecommunications
       - 2023.12 **Merit Student**, Beijing University of Posts and Telecommunications
 
   - title: Education # Title for the section
@@ -103,6 +100,7 @@ content:
       - Exploring culinary delights
 
       Below are some of my personal photography works:  
+      
       ![Street](/images/Street.jpeg)![Church-of-the-Sacred-Heart](/images/Church-of-the-Sacred-Heart.jpeg)![Seine](/images/Seine.jpeg)
       
 
