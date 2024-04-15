@@ -6,10 +6,10 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Xuyuan Guo
+title: Computer Science student
+email: guoxy@bupt.edu.cn
+website: github.com/XuyuanGuo
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -48,9 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hi, my name's XuyuanGuo and I'm an undergraduate student major in Computer Science and Technology, Beijing University of Posts and Telecommunications. My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
 content:
   - title: Projects # Title for the section
@@ -90,26 +88,25 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Beijing University of Posts and Telecommunications
+        caption: 2021 - 2025
+        sub_title: B.Eng. Computer Science and Technology
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Beijing University of Posts and Telecommunications is a public university in Beijing, China. It is part of Project 211 and the Double First-Class Construction.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at BUPT I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          I also served as the class monitor for the "Experimental Class" of the Computer Science Department, Class of 2021. This experience significantly enhanced my organizational and interpersonal skills.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my interests in computer science some of my other interests and hobbies are:
+      - Photography
+      - Exploring culinary delights
+      - Playing a wide range of video games
 
-      Look at this cool image  
+      Below is my personal photography  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
