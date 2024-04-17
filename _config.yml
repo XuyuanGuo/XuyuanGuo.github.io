@@ -71,6 +71,19 @@ content:
           Fianl project for Principles of Artificial Intelligence, 2023 Fall, BUPT
         description: | # this will include new lines to allow paragraphs
           In this project, I selected documents from 10 categories (Home, Games, Finance, Sports, Technology, Entertainment, Stocks, Politics, Society, Education) from the THUCNews dataset, dividing them into training and test sets in a 1:1 ratio. The training set includes 395,747 documents,and the test set also contains 395,747 documents. I then used SVM to classify the documents by their thematic categories.
+
+      - layout: top-middle
+        title: DNS relay server
+        link: https://github.com/XuyuanGuo/bupt_Computer-Networks
+        link_text: Project Website
+        additional_links:
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          Fianl project for Curriculum Practice of Computer Networks, 2023 Spring, BUPT
+        description: | # this will include new lines to allow paragraphs
+          In this project, I wrote a DNS relay server using C/C++ to manage DNS requests within a local network. The server provides the following features: request forwarding, caching of query results, blocking of malicious domain names, load balancing, and failover capabilities.
           
       - layout: top-middle
         title: Business Hall Time Management and Allocation System
@@ -88,10 +101,10 @@ content:
   - title: Honors and Awards # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - 2022.12 **First-class Scholarship(Top 3%)**, Beijing University of Posts and Telecommunications
-      - 2022.12 **Merit Student**, Beijing University of Posts and Telecommunications
       - 2023.12 **Muse Technologies Scholarship**, Beijing University of Posts and Telecommunications
       - 2023.12 **Merit Student**, Beijing University of Posts and Telecommunications
+      - 2022.12 **First-class Scholarship(Top 3%)**, Beijing University of Posts and Telecommunications
+      - 2022.12 **Merit Student**, Beijing University of Posts and Telecommunications
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
