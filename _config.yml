@@ -60,6 +60,19 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: Business Hall Time Management and Allocation System
+        link: https://github.com/XuyuanGuo/office-management
+        link_text: Project Website
+        additional_links:
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          A Practice of Full-Stack Development
+        description: | # this will include new lines to allow paragraphs
+          This project aims to use the BS architecture pattern to provide a business hours management system for business halls in different regions, requiring the ability to set the working hours for each business hall on weekdays and holidays. Later, this system will be used to manage the time for conducting intelligent video analysis in the business halls.
+    
+      - layout: top-middle
         title: Text Subject Classification Using SVM
         link: github.com/XuyuanGuo/bupt_AI-Principle
         link_text: Project Website
@@ -85,19 +98,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           In this project, I wrote a DNS relay server using C/C++ to manage DNS requests within a local network. The server provides the following features: request forwarding, caching of query results, blocking of malicious domain names, load balancing, and failover capabilities.
           
-      - layout: top-middle
-        title: Business Hall Time Management and Allocation System
-        link: https://github.com/XuyuanGuo/office-management
-        link_text: Project Website
-        additional_links:
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          A Practice of Full-Stack Development
-        description: | # this will include new lines to allow paragraphs
-          This project aims to use the BS architecture pattern to provide a business hours management system for business halls in different regions, requiring the ability to set the working hours for each business hall on weekdays and holidays. Later, this system will be used to manage the time for conducting intelligent video analysis in the business halls.
-
   - title: Honors and Awards # Title for the section
     layout: text # Type of content section (list/text)
     content: |
