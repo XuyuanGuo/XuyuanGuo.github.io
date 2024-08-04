@@ -53,7 +53,7 @@ about_profile_image: images/Profile.JPG
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's XuyuanGuo and I'm an undergraduate student major in Computer Science and Technology, Beijing University of Posts and Telecommunications. 
   
-  My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+  My research interest includes ***, ***, and ***.
 
 content:
   - title: Projects # Title for the section
@@ -109,25 +109,28 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top
+        title: University
+        caption: Sept 2025(expected) - 
+        sub_title: M.Eng. Electronic and Information Engineering
+        description: | # this will include new lines to allow paragraphs
+          I will continue my study in the field of Electronic and Information Engineering at ***.
+
+      - layout: top
+        title: National University of Singapore
+        caption: Jan 2023 - Feb 2023
+        sub_title: AI & ML programme
+        description: | # this will include new lines to allow paragraphs
+          I fostered professional skills and knowledge in artificial intelligence and machine learning and completed a team project using machine learning algorithms during this programme. I worked hard and got an overall grade of DISTINCTION.
+
+      - layout: top
         title: Beijing University of Posts and Telecommunications
-        caption: 2021 - 2025
+        caption: Sept 2021 - Jul 2025
         sub_title: B.Eng. Computer Science and Technology
         description: | # this will include new lines to allow paragraphs
           During my time at BUPT I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I also served as the class monitor for the "Experimental Class" of the Computer Science Department, Class of 2021. This experience significantly enhanced my organizational and interpersonal skills.
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in computer science some of my other interests and hobbies are:
-      - Photography
-      - Exploring culinary delights
-
-      Below are some of my personal photography works:  
-      
-      ![Street](/images/Street.jpeg)![Church-of-the-Sacred-Heart](/images/Church-of-the-Sacred-Heart.jpeg)![Seine](/images/Seine.jpeg)
       
 
 # Footer
