@@ -35,7 +35,7 @@ additional_links:
   icon: fab fa-zhihu
   url: https://www.zhihu.com/people/dylandi-lan-lan
 - title: bilibili
-  icon: fab fa-bilibili
+  icon: fab fa-weibo
   url: https://space.bilibili.com/171459933
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -124,7 +124,7 @@ content:
         sub_title: AI & ML programme
         description: | # this will include new lines to allow paragraphs
           <div align=center>
-            <img src="images/nus.png" width=30%>
+            <img src="./images/nus.png" width=30%>
             <text>I fostered professional skills and knowledge in artificial intelligence and machine learning and completed a team project using machine learning algorithms during this programme. I worked hard and got an overall grade of DISTINCTION.</text>
           </div>
           
@@ -134,7 +134,7 @@ content:
         caption: Sept 2021 - Jul 2025
         sub_title: B.Eng. Computer Science and Technology
         description: | # this will include new lines to allow paragraphs
-          During my time at BUPT I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at BUPT I learnt most of my key skills that I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time at university and learnt a lot about a healthy work life balance.
 
           I also served as the class monitor for the "Experimental Class" of the Computer Science Department, Class of 2021. This experience significantly enhanced my organizational and interpersonal skills.
       
