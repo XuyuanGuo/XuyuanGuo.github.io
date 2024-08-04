@@ -51,9 +51,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/Profile.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's XuyuanGuo and I'm an undergraduate student major in Computer Science and Technology, Beijing University of Posts and Telecommunications. 
+  Hi, my name's XuyuanGuo and I'm currently an undergraduate student major in Computer Science and Technology, Beijing University of Posts and Telecommunications. 
   
-  My research interest includes ***, ***, and ***.
+  My research interest includes Natural Language Processing and Machine Learning.
+
+  I am expected to graduate from BUPT in July 2025, and join Some University as a master student. Please feel free to contact me via email for any opportunities or collaborations. 
 
 content:
   - title: Projects # Title for the section
@@ -110,11 +112,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: University
-        caption: Sept 2025(expected) - 
+        title: Some University
+        caption: Sept 2025 - Jul 2028(expected)
         sub_title: M.Eng. Electronic and Information Engineering
         description: | # this will include new lines to allow paragraphs
-          I will continue my study in the field of Electronic and Information Engineering at ***.
+          I will continue my study in the field of Electronic and Information Engineering at Some University. I am looking forward to learning more about the field and applying my knowledge to real-world problems.
 
       - layout: left
         title: National University of Singapore
@@ -122,7 +124,7 @@ content:
         sub_title: AI & ML programme
         description: | # this will include new lines to allow paragraphs
           <div align=center>
-            <img src=".\images\nus.png" width=30%>
+            <img src="images/nus.png" width=30%>
             <text>I fostered professional skills and knowledge in artificial intelligence and machine learning and completed a team project using machine learning algorithms during this programme. I worked hard and got an overall grade of DISTINCTION.</text>
           </div>
           
