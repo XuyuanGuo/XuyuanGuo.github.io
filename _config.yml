@@ -109,21 +109,25 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top
+      - layout: left
         title: University
         caption: Sept 2025(expected) - 
         sub_title: M.Eng. Electronic and Information Engineering
         description: | # this will include new lines to allow paragraphs
           I will continue my study in the field of Electronic and Information Engineering at ***.
 
-      - layout: top
+      - layout: left
         title: National University of Singapore
         caption: Jan 2023 - Feb 2023
         sub_title: AI & ML programme
         description: | # this will include new lines to allow paragraphs
-          I fostered professional skills and knowledge in artificial intelligence and machine learning and completed a team project using machine learning algorithms during this programme. I worked hard and got an overall grade of DISTINCTION.
+          <div align=center>
+            <img src=".\images\nus.png" width=30%>
+            <text>I fostered professional skills and knowledge in artificial intelligence and machine learning and completed a team project using machine learning algorithms during this programme. I worked hard and got an overall grade of DISTINCTION.</text>
+          </div>
+          
 
-      - layout: top
+      - layout: left
         title: Beijing University of Posts and Telecommunications
         caption: Sept 2021 - Jul 2025
         sub_title: B.Eng. Computer Science and Technology
