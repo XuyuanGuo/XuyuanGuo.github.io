@@ -34,8 +34,11 @@ additional_links:
 - title: zhihu
   icon: fab fa-zhihu
   url: https://www.zhihu.com/people/dylandi-lan-lan
-- title: bilibili
+- title: weibo
   icon: fab fa-weibo
+  url: https://weibo.com/u/6858543510
+- title: bilibili
+  icon: fab fa-bilibili
   url: https://space.bilibili.com/171459933
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -64,7 +67,7 @@ content:
       - layout: top-middle
         title: Business Hall Time Management and Allocation System
         link: https://github.com/XuyuanGuo/office-management
-        link_text: Project Website
+        link_text: Project Page
         additional_links:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
@@ -77,7 +80,7 @@ content:
       - layout: top-middle
         title: Text Subject Classification Using SVM
         link: github.com/XuyuanGuo/bupt_AI-Principle
-        link_text: Project Website
+        link_text: Project Page
         additional_links:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
@@ -90,7 +93,7 @@ content:
       - layout: top-middle
         title: DNS relay server
         link: https://github.com/XuyuanGuo/bupt_Computer-Networks
-        link_text: Project Website
+        link_text: Project Page
         additional_links:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
@@ -113,7 +116,7 @@ content:
     content:
       - layout: left
         title: Some University
-        caption: Sept 2025 - Jul 2028(expected)
+        caption: Sept 2025 - Jul 2028 (expected)
         sub_title: M.Eng. Electronic and Information Engineering
         description: | # this will include new lines to allow paragraphs
           I will continue my study in the field of Electronic and Information Engineering at Some University. I am looking forward to learning more about the field and applying my knowledge to real-world problems.
@@ -123,10 +126,8 @@ content:
         caption: Jan 2023 - Feb 2023
         sub_title: AI & ML programme
         description: | # this will include new lines to allow paragraphs
-          <div align=center>
-            <img src="./images/nus.png" width=30%>
-            <text>I fostered professional skills and knowledge in artificial intelligence and machine learning and completed a team project using machine learning algorithms during this programme. I worked hard and got an overall grade of DISTINCTION.</text>
-          </div>
+          <img src="images/nus.png" width=30%>
+          <text>I fostered professional skills and knowledge in artificial intelligence and machine learning and completed a team project using machine learning algorithms during this programme. I worked hard and got an overall grade of DISTINCTION.</text>
           
 
       - layout: left
