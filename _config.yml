@@ -126,7 +126,7 @@ content:
         caption: Jan 2023 - Feb 2023
         sub_title: AI & ML programme
         description: | # this will include new lines to allow paragraphs
-          <img src="images/nus.png" width=30%>
+          <img src="images/nus.png" width=30%></img>
           <text>I fostered professional skills and knowledge in artificial intelligence and machine learning and completed a team project using machine learning algorithms during this programme. I worked hard and got an overall grade of DISTINCTION.</text>
           
 
