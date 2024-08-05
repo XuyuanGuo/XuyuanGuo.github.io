@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Xuyuan Guo
-title: Undergraduate Student Major In Conputer Science
+title: Per Aspera Ad Astra
 email: guoxy@bupt.edu.cn
 website: github.com/XuyuanGuo
 
@@ -31,15 +31,15 @@ github_username:  XuyuanGuo
 
 # Additional icon links
 additional_links:
+- title: bilibili
+  icon: fab fa-tv
+  url: https://space.bilibili.com/171459933
 - title: zhihu
   icon: fab fa-zhihu
   url: https://www.zhihu.com/people/dylandi-lan-lan
 - title: weibo
   icon: fab fa-weibo
   url: https://weibo.com/u/6858543510
-- title: bilibili
-  icon: fab fa-bilibili
-  url: https://space.bilibili.com/171459933
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -126,8 +126,8 @@ content:
         caption: Jan 2023 - Feb 2023
         sub_title: AI & ML programme
         description: | # this will include new lines to allow paragraphs
-          <img src="images/nus.png" width=30%></img>
-          <text>I fostered professional skills and knowledge in artificial intelligence and machine learning and completed a team project using machine learning algorithms during this programme. I worked hard and got an overall grade of DISTINCTION.</text>
+          ![nus]("images/nus.png")
+          I fostered professional skills and knowledge in artificial intelligence and machine learning and completed a team project using machine learning algorithms during this programme. I worked hard and got an overall grade of DISTINCTION.
           
 
       - layout: left
