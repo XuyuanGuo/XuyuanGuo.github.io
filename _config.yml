@@ -32,7 +32,7 @@ github_username:  XuyuanGuo
 # Additional icon links
 additional_links:
 - title: bilibili
-  icon: fab fa-television
+  icon: fa-brands fa-bilibili
   url: https://space.bilibili.com/171459933
 - title: zhihu
   icon: fab fa-zhihu
@@ -122,11 +122,12 @@ content:
           I will continue my study in the field of Electronic and Information Engineering at Some University. I am looking forward to learning more about the field and applying my knowledge to real-world problems.
 
       - layout: left
-        title: National University of Singapore ![nus](images/nus.png)
+        title: National University of Singapore
         caption: Jan 2023 - Feb 2023
         sub_title: AI & ML programme
         description: | # this will include new lines to allow paragraphs
           ![nus](images/nus.png)
+
           I fostered professional skills and knowledge in artificial intelligence and machine learning and completed a team project using machine learning algorithms during this programme. I worked hard and got an overall grade of DISTINCTION.
           
 
@@ -135,6 +136,8 @@ content:
         caption: Sept 2021 - Jul 2025
         sub_title: B.Eng. Computer Science and Technology
         description: | # this will include new lines to allow paragraphs
+          ![bupt](images/bupt.png)
+
           During my time at BUPT I learnt most of my key skills that I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time at university and learnt a lot about a healthy work life balance.
 
           I also served as the class monitor for the "Experimental Class" of the Computer Science Department, Class of 2021. This experience significantly enhanced my organizational and interpersonal skills.
