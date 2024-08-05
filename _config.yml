@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: XuyuanGuo/XuyuanGuo.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -9,7 +9,6 @@ version: 2
 name: Xuyuan Guo
 title: Per Aspera Ad Astra
 email: guoxy@bupt.edu.cn
-website: github.com/XuyuanGuo
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -31,18 +30,12 @@ github_username:  XuyuanGuo
 
 # Additional icon links
 additional_links:
-- title: bilibili
-  icon: fa-brands fa-bilibili
-  url: https://space.bilibili.com/171459933
 - title: zhihu
   icon: fab fa-zhihu
   url: https://www.zhihu.com/people/dylandi-lan-lan
 - title: weibo
   icon: fab fa-weibo
   url: https://weibo.com/u/6858543510
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -51,93 +44,76 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: About Me
 about_profile_image: images/Profile.JPG
-about_content: | # this will include new lines to allow paragraphs
+about_content: |
   Hi, my name's XuyuanGuo and I'm currently an undergraduate student major in Computer Science and Technology, Beijing University of Posts and Telecommunications. 
   
-  My research interest includes Natural Language Processing and Machine Learning.
+  My research interest includes <mark>Natural Language</mark> Processing and <mark>Machine Learning</mark>.
 
   I am expected to graduate from BUPT in July 2025, and join Some University as a master student. Please feel free to contact me via email for any opportunities or collaborations. 
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Projects
+    layout: list
     content:
       - layout: top-middle
         title: Business Hall Time Management and Allocation System
         link: https://github.com/XuyuanGuo/office-management
         link_text: Project Page
-        additional_links:
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           A Practice of Full-Stack Development
-        description: | # this will include new lines to allow paragraphs
+        description: |
           This project aims to use the BS architecture pattern to provide a business hours management system for business halls in different regions, requiring the ability to set the working hours for each business hall on weekdays and holidays. Later, this system will be used to manage the time for conducting intelligent video analysis in the business halls.
     
       - layout: top-middle
         title: Text Subject Classification Using SVM
         link: github.com/XuyuanGuo/bupt_AI-Principle
         link_text: Project Page
-        additional_links:
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           Fianl project for Principles of Artificial Intelligence, 2023 Fall, BUPT
-        description: | # this will include new lines to allow paragraphs
+        description: |
           In this project, I selected documents from 10 categories (Home, Games, Finance, Sports, Technology, Entertainment, Stocks, Politics, Society, Education) from the THUCNews dataset, dividing them into training and test sets in a 1:1 ratio. The training set includes 395,747 documents,and the test set also contains 395,747 documents. I then used SVM to classify the documents by their thematic categories.
 
       - layout: top-middle
         title: DNS relay server
         link: https://github.com/XuyuanGuo/bupt_Computer-Networks
         link_text: Project Page
-        additional_links:
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           Fianl project for Curriculum Practice of Computer Networks, 2023 Spring, BUPT
-        description: | # this will include new lines to allow paragraphs
+        description: |
           In this project, I wrote a DNS relay server using C/C++ to manage DNS requests within a local network. The server provides the following features: request forwarding, caching of query results, blocking of malicious domain names, load balancing, and failover capabilities.
           
-  - title: Honors and Awards # Title for the section
-    layout: text # Type of content section (list/text)
+  - title: Honors and Awards
+    layout: text
     content: |
       - 2023.12 **Muse Technologies Scholarship**, Beijing University of Posts and Telecommunications
       - 2023.12 **Merit Student**, Beijing University of Posts and Telecommunications
       - 2022.12 **First-class Scholarship(Top 3%)**, Beijing University of Posts and Telecommunications
       - 2022.12 **Merit Student**, Beijing University of Posts and Telecommunications
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Education
+    layout: list
     content:
       - layout: left
         title: Some University
         caption: Sept 2025 - Jul 2028 (expected)
         sub_title: M.Eng. Electronic and Information Engineering
-        description: | # this will include new lines to allow paragraphs
+        description: |
           I will continue my study in the field of Electronic and Information Engineering at Some University. I am looking forward to learning more about the field and applying my knowledge to real-world problems.
 
       - layout: left
         title: National University of Singapore
         caption: Jan 2023 - Feb 2023
         sub_title: AI & ML programme
-        description: | # this will include new lines to allow paragraphs
-          ![nus](images/nus.png)
-
-          I fostered professional skills and knowledge in artificial intelligence and machine learning and completed a team project using machine learning algorithms during this programme. I worked hard and got an overall grade of DISTINCTION.
+        description: |
+          I fostered professional skills and knowledge in artificial intelligence and machine learning and completed a team project using machine learning algorithms during this programme. I worked hard and got an overall grade of **DISTINCTION**.
           
-
       - layout: left
         title: Beijing University of Posts and Telecommunications
         caption: Sept 2021 - Jul 2025
         sub_title: B.Eng. Computer Science and Technology
-        description: | # this will include new lines to allow paragraphs
-          ![bupt](images/bupt.png)
-
+        description: |
           During my time at BUPT I learnt most of my key skills that I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time at university and learnt a lot about a healthy work life balance.
 
           I also served as the class monitor for the "Experimental Class" of the Computer Science Department, Class of 2021. This experience significantly enhanced my organizational and interpersonal skills.
