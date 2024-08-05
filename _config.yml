@@ -32,7 +32,7 @@ github_username:  XuyuanGuo
 # Additional icon links
 additional_links:
 - title: bilibili
-  icon: fab fa-tv
+  icon: fab fa-television
   url: https://space.bilibili.com/171459933
 - title: zhihu
   icon: fab fa-zhihu
@@ -122,11 +122,11 @@ content:
           I will continue my study in the field of Electronic and Information Engineering at Some University. I am looking forward to learning more about the field and applying my knowledge to real-world problems.
 
       - layout: left
-        title: National University of Singapore
+        title: National University of Singapore ![nus](images/nus.png)
         caption: Jan 2023 - Feb 2023
         sub_title: AI & ML programme
         description: | # this will include new lines to allow paragraphs
-          ![nus]("images/nus.png")
+          ![nus](images/nus.png)
           I fostered professional skills and knowledge in artificial intelligence and machine learning and completed a team project using machine learning algorithms during this programme. I worked hard and got an overall grade of DISTINCTION.
           
 
