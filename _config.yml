@@ -108,7 +108,7 @@ content:
         caption: Jan 2023 - Feb 2023
         sub_title: AI & ML programme
         description: |
-          I fostered professional skills and knowledge in artificial intelligence and machine learning during this programme, and completed a machine learning project with teammates from around the world using <mark>Python</mark> and <mark>Pytorch</mark>.
+          I fostered professional skills and knowledge in artificial intelligence and machine learning during this programme, completed a machine learning project with teammates from around the world using <mark>Python</mark> and <mark>Pytorch</mark> and dilivered a presentation.
           
           I worked hard and got an overall grade of **DISTINCTION**.
           
@@ -117,9 +117,11 @@ content:
         caption: Sept 2021 - Jul 2025
         sub_title: B.Eng. Computer Science and Technology
         description: |
-          During my undergraduate years, I have taken courses in computer science, artificial intelligence, and other related fields. I have also participated in various research projects and competitions, which have helped me develop a solid foundation in my major.
+          During my undergraduate years, I have taken courses in computer science, artificial intelligence, and other related fields, and have participated in various projects and competitions, which have helped me develop a solid foundation in my major.
 
-          I also served as the class monitor for the **"Experimental Class"** of the Computer Science Department, Class of 2021. This experience significantly enhanced my organizational and interpersonal skills.
+          I also joined [Lab of Visual Robots & Intelligent Technologies](http://vrobotit.cn) as research intern, where I worked on projects related to computer vision and learnt a lot.
+
+          I served as the class monitor for the **"Experimental Class"** of the Computer Science Department, Class of 2021. This experience significantly enhanced my organizational and interpersonal skills.
       
 # Footer
 footer_show_references: true
