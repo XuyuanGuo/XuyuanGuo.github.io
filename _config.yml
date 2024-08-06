@@ -47,9 +47,9 @@ additional_links:
 about_title: About Me
 about_profile_image: images/Profile.JPG
 about_content: |
-  Hi, my name's XuyuanGuo and I'm currently an undergraduate student major in Computer Science and Technology, Beijing University of Posts and Telecommunications. 
+  Hi, I am XuyuanGuo and I'm currently an undergraduate student major in Computer Science and Technology, Beijing University of Posts and Telecommunications. 
   
-  My research interest includes <mark>Natural Language</mark> Processing and <mark>Machine Learning</mark>.
+  My research interest includes <mark>Natural Language Processing</mark> and <mark>Machine Learning</mark>.
 
   I am expected to graduate from BUPT in July 2025, and join Some University as a master student. Please feel free to contact me via email for any opportunities or collaborations. 
 
@@ -91,6 +91,7 @@ content:
       - 2023.12 **Merit Student**, Beijing University of Posts and Telecommunications
       - 2022.12 **First-class Scholarship(Top 3%)**, Beijing University of Posts and Telecommunications
       - 2022.12 **Merit Student**, Beijing University of Posts and Telecommunications
+      - 2022.11 Unofficial participant and achieved a **Bronze Medal** ranking, [The 47th ICPC Asia Regional Programming Contest Hefei](https://board.xcpcio.com/icpc/47th/hefei?group=all)
 
   - title: Education
     layout: list
@@ -107,18 +108,19 @@ content:
         caption: Jan 2023 - Feb 2023
         sub_title: AI & ML programme
         description: |
-          I fostered professional skills and knowledge in artificial intelligence and machine learning and completed a team project using machine learning algorithms during this programme. I worked hard and got an overall grade of **DISTINCTION**.
+          I fostered professional skills and knowledge in artificial intelligence and machine learning during this programme, and completed a machine learning project with teammates from around the world using <mark>Python</mark> and <mark>Pytorch</mark>.
+          
+          I worked hard and got an overall grade of **DISTINCTION**.
           
       - layout: left
         title: Beijing University of Posts and Telecommunications
         caption: Sept 2021 - Jul 2025
         sub_title: B.Eng. Computer Science and Technology
         description: |
-          During my time at BUPT I learnt most of my key skills that I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time at university and learnt a lot about a healthy work life balance.
+          During my undergraduate years, I have taken courses in computer science, artificial intelligence, and other related fields. I have also participated in various research projects and competitions, which have helped me develop a solid foundation in my major.
 
-          I also served as the class monitor for the "Experimental Class" of the Computer Science Department, Class of 2021. This experience significantly enhanced my organizational and interpersonal skills.
+          I also served as the class monitor for the **"Experimental Class"** of the Computer Science Department, Class of 2021. This experience significantly enhanced my organizational and interpersonal skills.
       
-
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
