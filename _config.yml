@@ -1,0 +1,9 @@
+icon: assets/img/favicon.ico
+title: Xuyuan Guo
+description: Software Development Engineer
+logo: assets/img/Profile.JPG
+github:
+  is_user_page: True
+  owner_url: https://github.com/XuyuanGuo
+email: guoxy@bupt.edu.cn
+theme: jekyll-theme-minimal
